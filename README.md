@@ -1,13 +1,1 @@
-# React + Vite
-
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
+Natural Pics: https://github.com/akllozz/NaturalPics
